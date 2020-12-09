@@ -1,2 +1,2 @@
 # bootstrap-1
-Creating beautiful templates using bootstr
+Creating beautiful templates using bootstrap
